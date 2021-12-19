@@ -1,4 +1,4 @@
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](//img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](//www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 This is Taoran Zhang's 449 final project.
 
