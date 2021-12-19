@@ -1,12 +1,6 @@
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/6dMbyVZhNj0"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+[![Pick and Place Mecanum Robot](https://i.imgur.com/sVSIF2f.png)](https://www.youtube.com/watch?v=6dMbyVZhNj0 "Pick and Place Mecanum Robot")
+
+
 
 This is Taoran Zhang's 449 final project.
 
