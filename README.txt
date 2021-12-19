@@ -1,12 +1,4 @@
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/6dMbyVZhNj0"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/watch?v=UmX4kyB2wfg)
 
 This is Taoran Zhang's 449 final project.
 
